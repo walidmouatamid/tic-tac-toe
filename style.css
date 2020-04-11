@@ -1,0 +1,35 @@
+table,td{
+    border:2px solid black;
+    border-collapse: collapse;
+    
+}
+
+td{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 4em;
+    box-sizing: border-box;
+}
+.resultat{
+    width: 300px;
+    height: 100px;
+    color: crimson;
+    font-size: 3em;
+    text-align: center;
+
+}
+td:hover{
+    background-color: rgba(100, 149, 237,0.3);
+}
+
+.game{
+    width: 300px;
+    
+    margin-right: auto;
+    margin-left: auto;
+}
+input{
+    
+    margin-left: 115px;  
+}
